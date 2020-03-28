@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d1a4ce27-78c9-4907-bcc7-67b3a6c34054" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem3/myqueue/MyPriorityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem3/myqueue/MyPriorityQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem3/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem3/main/MyMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585408785203</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="PriorityQueue completed">
+      <created>1585410575054</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1585410575055</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -225,16 +232,17 @@
     <MESSAGE value="updated b.s.t" />
     <MESSAGE value="Prob 1 completed" />
     <MESSAGE value="Node class for prob 3 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Node class for prob 3 completed" />
+    <MESSAGE value="PriorityQueue completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="PriorityQueue completed" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="318" y="0" key="CommitChangelistDialog2" timestamp="1585408783291">
+    <state x="318" y="0" key="CommitChangelistDialog2" timestamp="1585410572833">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="318" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1585408783291" />
+    <state x="318" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1585410572833" />
     <state x="129" y="54" key="DiffContextDialog" timestamp="1585407078011">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -255,10 +263,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585405278829" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1585408817943">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1585410582740">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1585408817943" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1585410582740" />
     <state x="492" y="280" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585398476611">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
